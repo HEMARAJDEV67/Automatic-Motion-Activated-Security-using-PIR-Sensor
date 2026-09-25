@@ -87,6 +87,7 @@ void loop() {
 ```
 # Output:
 
+
 <img width="1456" height="1598" alt="WhatsApp Image 2026-09-23 at 12 57 42 PM" src="https://github.com/user-attachments/assets/bbac6769-ec5e-4ab2-9c95-906c86199765" />
 
 
